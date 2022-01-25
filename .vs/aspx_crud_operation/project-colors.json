@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ddb92370-0c7b-4e0e-8fd6-7e308ea04d66": {
+      "ProjectGuid": "ddb92370-0c7b-4e0e-8fd6-7e308ea04d66",
+      "DisplayName": "aspx_crud_operation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
